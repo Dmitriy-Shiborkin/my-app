@@ -1,0 +1,32 @@
+#nav {
+  grid-area: nav;
+
+  background-color: burlywood;
+}
+
+#nav ul li {
+  font-size: 25px;
+  font-weight: 500;
+  
+  list-style-type: none;
+}
+
+#nav a {
+  text-decoration: none;
+  color: black;
+}
+
+#nav a.activeLink {
+  color: red;
+}
+
+
+
+
+
+
+
+
+
+
+

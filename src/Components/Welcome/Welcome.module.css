@@ -1,0 +1,25 @@
+#container {
+  grid-area: content;
+
+  display: grid;
+
+  grid-template-columns: 320px 1fr;
+
+  background-color: cornflowerblue;
+}
+
+
+#container p {
+  font-size: 100px;
+  font-weight: 500;
+  margin: 10px 0 0 50px;
+}
+
+
+
+
+
+
+
+
+
